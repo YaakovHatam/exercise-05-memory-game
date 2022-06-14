@@ -1,9 +1,11 @@
 
 # Memory game (exercise #05)
 
-Fork this project to start the exercise.
+## General
 
-This exercise is part of exercises repository found AT https://github.com/YaakovHatam/exercises
+**Fork this project to start the exercise.**
+
+This exercise is part of exercises repository found AT [Exercises master repo](https://github.com/YaakovHatam/exercises)
 
 If you finish the exercise you can request to add your repo here [add a finished project](https://github.com/YaakovHatam/exercises/issues/new?assignees=YaakovHatam&labels=Add+a+project+to+hall+of+fame&template=add-a-finished-project.md&title=i+want+to+add+my+proejct+05+memory+game+to+hall+of+fame)
 
