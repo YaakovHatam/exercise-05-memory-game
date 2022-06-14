@@ -1,5 +1,5 @@
 
-# exercise-05-memory-game
+# Memory game (exercise #05)
 
 Fork this project to start the exercise.
 
